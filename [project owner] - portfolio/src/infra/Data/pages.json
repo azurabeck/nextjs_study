@@ -1,0 +1,54 @@
+{
+    "en-US": [
+        {
+            "title": "Home",
+            "link": "/",
+            "head": "RS Portifólio - Home"
+        },
+        {
+            "title": "About",
+            "link": "/about",
+            "head": "RS Portifólio - About"
+        },
+        {
+            "title": "Experience",
+            "link": "/exp",
+            "head": "RS Portifólio - Experience"
+        },
+        {
+            "title": "Profile",
+            "link": "/profile",
+            "head": "RS Portifólio - Profile"
+        },
+        {
+            "title": "Contact",
+            "link": "/contact",
+            "head": "RS Portifólio - Contact"
+    }],
+    "pt-BR": [
+        {
+            "title": "Capa",
+            "link": "/",
+            "head": "RS Portifólio - Home"
+        },
+        {
+            "title": "Sobre",
+            "link": "/about",
+            "head": "RS Portifólio - About"
+        },
+        {
+            "title": "Experiencia",
+            "link": "/exp",
+            "head": "RS Portifólio - Experience"
+        },
+        {
+            "title": "Profile",
+            "link": "/profile",
+            "head": "RS Portifólio - Profile"
+        },
+        {
+            "title": "Contato",
+            "link": "/contact",
+            "head": "RS Portifólio - Contact"
+    }]
+}

@@ -1,0 +1,177 @@
+{
+    "en-US": [
+        {
+            "title": "News",
+            "link": "/",
+            "head": "PSafe - news",
+            "tabs": []
+        }, 
+        {
+            "title": "Enginnering",
+            "link": "/",
+            "head": "PSafe - news",
+            "tabs": []
+        },
+        {
+            "title": "B.I",
+            "link": "/",
+            "head": "PSafe - news",
+            "tabs": []
+        },
+        {
+            "title": "Monetization",
+            "link": "/",
+            "head": "PSafe - news",
+            "tabs": []
+        },
+        {
+            "title": "Q.A.",
+            "link": "/",
+            "head": "PSafe - news",
+            "tabs": []
+        },
+        {
+            "title": "Security",
+            "link": "/",
+            "head": "PSafe - news",
+            "tabs": []
+        },
+        {
+            "title": "Product",
+            "link": "/",
+            "head": "PSafe - news",
+            "tabs": []
+        },
+        {
+            "title": "Marketing",
+            "link": "/",
+            "head": "PSafe - news",
+            "tabs": []
+        },
+        {
+            "title": "UX Design",
+            "link": "/",
+            "head": "PSafe - news",
+            "tabs": []
+        },
+        {
+            "title": "Growth",
+            "link": "/",
+            "head": "PSafe - news",
+            "tabs": []
+        },
+        {
+            "title": "Ad Sales",
+            "link": "/",
+            "head": "PSafe - news",
+            "tabs": []
+        }],
+    "pt-BR": [
+        {
+            "title": "Notícias",
+            "link": "/",
+            "head": "PSafe - notícias",
+            "tabs": null
+        }, 
+        {
+            "title": "Serviços",
+            "link": "/servicos",
+            "head": "PSafe - serviços",
+            "tabs": [
+                {"title": "Notícias de Servicos" , "link": "/servicos"},
+                {"title": "Documentos de backend" , "link": "/servicos/backend"},
+                {"title": "Documentos de frontend" , "link": "/servicos/frontend"},
+                {"title": "Vídeos do loom" , "link": "/servicos/videos"}
+            ]
+        },
+        {
+            "title": "B.I",
+            "link": "/bi",
+            "head": "PSafe - b.i.",
+            "tabs": [
+                {"title": "Notícias de B.I." , "link": "/bi"},
+                {"title": "Documentos de B.I." , "link": "/bi/documentos"},
+                {"title": "Vídeos do loom" , "link": "/bi/videos"}
+            ]
+        },
+        {
+            "title": "Monetization",
+            "link": "/monetization",
+            "head": "PSafe - monetization",
+            "tabs": [
+                {"title": "Notícias de Monetization" , "link": "/monetization"},
+                {"title": "Documentos de Monetization" , "link": "/monetization/documentos"},
+                {"title": "Vídeos do loom" , "link": "/monetization/videos"}
+            ]
+        },
+        {
+            "title": "Q.A.",
+            "link": "/qa",
+            "head": "PSafe - q.a.",
+            "tabs": [
+                {"title": "Notícias de Q.A." , "link": "/qa"},
+                {"title": "Documentos de Q.A." , "link": "/qa/documentos"},
+                {"title": "Vídeos do loom" , "link": "/qa/videos"}
+            ]
+        },
+        {
+            "title": "Security",
+            "link": "/security",
+            "head": "PSafe - security",
+            "tabs": [
+                {"title": "Notícias de Security" , "link": "/security"},
+                {"title": "Documentos de Security" , "link": "/security/documentos"},
+                {"title": "Vídeos do loom" , "link": "/security/videos"}
+            ]
+        },
+        {
+            "title": "Produto",
+            "link": "/produto",
+            "head": "PSafe - produto",
+            "tabs": [
+                {"title": "Notícias de Produto" , "link": "/produto"},
+                {"title": "Documentos de Produto" , "link": "/produto/documentos"},
+                {"title": "Vídeos do loom" , "link": "/produto/videos"}
+            ]
+        },
+        {
+            "title": "Marketing",
+            "link": "/marketing",
+            "head": "PSafe - marketing",
+            "tabs": [
+                {"title": "Notícias de Marketing" , "link": "/marketing"},
+                {"title": "Documentos de Marketing" , "link": "/marketing/documentos"},
+                {"title": "Vídeos do loom" , "link": "/marketing/videos"}
+            ]
+        },
+        {
+            "title": "UX Design",
+            "link": "/uxdesign",
+            "head": "PSafe - ux design",
+            "tabs": [
+                {"title": "Notícias de UX Design" , "link": "/ux_design"},
+                {"title": "Documentos de UX Design" , "link": "/ux_design/documentos"},
+                {"title": "Vídeos do loom" , "link": "/ux_design/videos"}
+            ]
+        },
+        {
+            "title": "Growth",
+            "link": "/growth",
+            "head": "PSafe - growth",
+            "tabs": [
+                {"title": "Notícias de Growth" , "link": "/growth"},
+                {"title": "Documentos de Growth" , "link": "/growth/documentos"},
+                {"title": "Vídeos do loom" , "link": "/growth/videos"}
+            ]
+        },
+        {
+            "title": "Ad Sales",
+            "link": "/adsales",
+            "head": "PSafe - ad sales",
+            "tabs": [
+                {"title": "Notícias AD Sales" , "link": "/ad_sales"},
+                {"title": "Documentos AD Sales" , "link": "/ad_sales/documentos"},
+                {"title": "Vídeos do loom" , "link": "/ad_sales/videos"}
+            ]
+        }]
+}
